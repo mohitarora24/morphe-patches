@@ -1,4 +1,4 @@
-# 👋🧩 Morphe Patches template
+# 👋🧩 Agent007 Morphe Patches
 
 Template repository for Morphe Patches.
 
@@ -10,7 +10,7 @@ Patches for apps I like.
 
 ### How to use these patches
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=xyz-user/xyz-patches
+Click here to add these patches to Morphe: https://morphe.software/add-source?github=mohitarora24/morphe-patches
 
 ## 🩹 Patches list
 
