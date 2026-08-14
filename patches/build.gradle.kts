@@ -2,7 +2,7 @@ group = "app.jamesbond.morphe-patches"
 
 patches {
     about {
-        name = "Ageng007 Morphe Patches"
+        name = "Agent007 Morphe Patches"
         description = "Patches for apps I like"
         source = "git@github.com:mohitarora24/morphe-patches.git"
         author = "mohitarora24"
