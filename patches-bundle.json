@@ -1,7 +1,7 @@
 {
-  "created_at": "",
-  "description": "",
-  "download_url": "",
+  "created_at": "2026-08-15T18:11:31",
+  "description": "## 1.0.0-dev.1 (2026-08-15)\n\n### ✨ New Features\n\n* add fermata xstream premium patch ([284c7ba](https://github.com/mohitarora24/morphe-patches/commit/284c7ba39c329f273b876740df35bbc61b2aa575))",
+  "download_url": "https://github.com/mohitarora24/morphe-patches/releases/download/v1.0.0-dev.1/patches-1.0.0-dev.1.mpp",
   "signature_download_url": "",
-  "version": ""
+  "version": "1.0.0-dev.1"
 }
