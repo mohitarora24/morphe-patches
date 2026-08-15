@@ -1,5 +1,32 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "0.0.0",
-  "patches": []
+  "version": "1.0.0",
+  "patches": [
+    {
+      "name": "Bypass License Verification",
+      "description": "Bypasses Fermata Xtream license verification by forcing verify() to immediately accept Boolean.TRUE.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "me.aap.fermatamod.dear.google.why.bingo2.rec",
+          "name": "Fermata Xtream",
+          "description": null,
+          "apkFileType": "APK",
+          "appIconColor": "#6200EE",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "2.5.1",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    }
+  ]
 }
